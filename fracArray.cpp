@@ -1,3 +1,9 @@
+//Autores	 Jose de la Vega
+//	         Julio de la Cruz
+//Email	  j.r.delavega17@gmail.com
+//	      jjdl_cn@hotmail.com
+//Estructura de Datos
+
 #include "fracArray.h"
 #include <iostream>
 #include <cmath>
